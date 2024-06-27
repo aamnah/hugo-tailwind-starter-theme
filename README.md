@@ -6,4 +6,4 @@ Placeholder for now. Will keep an eye on [TailwindCSS v4.0](https://tailwindcss.
 
 
 Resources:
-- [Sample markdown](https://gist.github.com/aamnah/b329285b615db89275ec833308a28b35
+- [Sample markdown](https://gist.github.com/aamnah/b329285b615db89275ec833308a28b35)
